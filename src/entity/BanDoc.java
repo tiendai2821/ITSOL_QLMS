@@ -62,7 +62,7 @@ public class BanDoc {
 
     @Override
     public String toString() {
-        return "entity.Customer{" +
+        return "entity.Reader{" +
                 "id=" + id +
                 ", name='" + name + '\'' +
                 ", address='" + address + '\'' +
